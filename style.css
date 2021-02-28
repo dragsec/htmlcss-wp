@@ -3,3 +3,12 @@
     margin: 0;
     box-sizing: border-box;
 }
+.general{
+    width: 1200px;
+    margin: auto;
+    font-family:Cambria;
+}
+
+header{
+
+}
