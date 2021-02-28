@@ -7,8 +7,25 @@
     width: 1200px;
     margin: auto;
     font-family:Cambria;
+    
 }
-
-header{
-
+.headermenu{
+    font-size: 18px;
+    color: grey;
+    margin: 20px 0 20px 0;
+}
+.megabanner{
+    height: 500px;
+    margin: auto;
+    background-image: url(img/banner.jpg);
+}
+.bannerbox{
+    height: 150px;
+    width: 600px;
+    border: 1px solid;
+    padding: 200px 200px 50px 50px;
+}
+footer{
+    width: 150px; /* è possibile centrare il footer senza width? */
+    margin: auto;
 }
