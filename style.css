@@ -3,6 +3,18 @@
     margin: 0;
     box-sizing: border-box;
 }
+.bannerbox{
+    height: 150px;
+    width: 800px;
+    border: 1px solid;
+    padding: 300px 200px 50px 50px;
+    color: white;
+}
+footer{
+    width: 150px; /* è possibile centrare il footer senza width? */
+    margin: auto;
+    padding: 50px 0 25px 0;
+}
 .general{
     width: 1200px;
     margin: auto;
@@ -19,13 +31,8 @@
     margin: auto;
     background-image: url(img/banner.jpg);
 }
-.bannerbox{
-    height: 150px;
-    width: 600px;
-    border: 1px solid;
-    padding: 200px 200px 50px 50px;
-}
-footer{
-    width: 150px; /* è possibile centrare il footer senza width? */
-    margin: auto;
+.overlay{
+    background-color: rgb(0, 0, 0, 0.2);
+    width: 100%;
+    height: 100%;
 }
