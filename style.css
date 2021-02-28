@@ -6,7 +6,7 @@
 .bannerbox{
     height: 150px;
     width: 800px;
-    border: 1px solid;
+    border: 5px solid;
     padding: 300px 200px 50px 50px;
     color: white;
 }
@@ -31,7 +31,9 @@ footer{
 .headermenu{
     font-size: 18px;
     color: grey;
-    margin: 20px 0 20px 0;
+    margin: 20px 0 5px 0;
+    height: 30px;
+    border: 1px solid;
 }
 .img1{
     width: 100%;
@@ -75,6 +77,9 @@ footer{
     width: 100%;
     height: 100%;
     border-radius: 10px;
+}
+.padding-right15{
+    padding-right: 15px;
 }
 .sezionecentro{
     width: 56%;
